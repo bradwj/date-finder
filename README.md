@@ -1,8 +1,5 @@
-# Assignment 2 - Date Finder 
-- Bradley Johnson (BWJ200000)
-- CS 3377.008
-- Dr. Satpute
-- 23 October 2022
+# Date Finder 
+> Originally completed as an assignment for the class CS3377 - Systems Programming in UNIX
 
 ***Date Finder*** is a bash script that finds every occurence of possible dates in a text file. The list of dates found and the match count are written to an output file and displayed to the console. The dates are checked for validity, including valid month and day numbers, as well as valid month names or abbreviations.
 
